@@ -98,4 +98,5 @@ React.createClass({
 })
 ]]></content>
   <tabTrigger>React.cc</tabTrigger>
+  <scope>source.js</scope>
 </snippet>
