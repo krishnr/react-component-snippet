@@ -3,7 +3,7 @@ A template for neat & clean React components.
 
 Type `React.cc→` followed by a tab to generate this beauty:
 
-```js
+```jsx
   React.createClass({
 
 
