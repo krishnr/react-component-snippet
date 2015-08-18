@@ -1,0 +1,101 @@
+<snippet>
+  <content><![CDATA[
+React.createClass({
+
+
+  ////////////////////
+  // PROPS & STATES //
+  ////////////////////
+
+
+  propTypes : {
+    ${1}
+  },
+
+  getDefaultProps() {
+    return {
+      ${2}
+    }
+  },
+
+  getInitialState() {
+    return {
+      ${3}
+    }
+  },
+
+
+
+
+  ////////////////
+  // RENDERINGS //
+  ////////////////
+
+
+  render() {
+    return (
+      <div>
+        ${4}
+      </div>
+    )
+  },
+
+
+
+
+  /////////////////////
+  // LIFECYCLE HOOKS //
+  /////////////////////
+
+  ${5}
+
+
+
+
+  ////////////////////
+  // EVENT HANDLERS //
+  ////////////////////
+
+  ${6}
+
+
+
+
+  /////////////
+  // GETTERS //
+  /////////////
+
+  ${7}
+
+
+
+
+  /////////////
+  // SETTERS //
+  /////////////
+
+  ${8}
+
+
+
+
+  //////////////////////
+  // DOM MANIPULATORS //
+  //////////////////////
+
+  ${9}
+
+
+
+
+  ////////////////////
+  // HELPER METHODS //
+  ////////////////////
+
+  ${10}
+
+
+})
+]]></content>
+  <tabTrigger>React.cc</tabTrigger>
+</snippet>
